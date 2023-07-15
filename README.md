@@ -25,6 +25,12 @@ We would like to acknowledge the following contributor for their valuable contri
   <a href="https://github.com/faraasat">
     <img src="https://img.shields.io/badge/GitHub-Farasat%20Ali-181727?style=for-the-badge&logo=github"/>
   </a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+  <a href="https://github.com/faraasat">
+    <img src="https://img.shields.io/badge/GitHub-Abdullah%20Abdul%20Wahid-181727?style=for-the-badge&logo=github"/>
+  </a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+  <a href="https://github.com/faraasat">
+    <img src="https://img.shields.io/badge/GitHub-Fazeel%20Zafar-181727?style=for-the-badge&logo=github"/>
+  </a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
 </p>
 
 <!-- ---
@@ -38,4 +44,3 @@ Take a glimpse into the Project:
     <img width='100%' src="screen-shot.png"/>
   </a>
 </p> -->
-
