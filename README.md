@@ -2,7 +2,7 @@
 
 #### 📽 A basic CRUD Airline Ticketing System.
 
-<>
+<br />
 
 ### 🕵️‍♂️ Project Details:
 
