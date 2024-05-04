@@ -4,32 +4,22 @@
 
 ---
 
-### Case Study for "Airline Ticketing Management System":
+### 📜 Case Study for "Airline Ticketing Management System":
 
 #### 🔗 Website URL: N/A
 #### 😋 GitHub URL: https://github.com/faraasat/airline_ticketing_system
 
----
-
 #### 📚 Course: Computer Programming
 This project was completed as a part of the Computer Programming course, which focused on developing programming skills using C++.
-
----
 
 #### 💎 Client:
 This project was made as a university project, with the goal of demonstrating proficiency in C++ programming and software development principles.
 
----
-
 #### 📌 Problem:
 There was no specific problem to solve for this project. Instead, the goal was to design and implement a basic Airline Ticketing Management System using C++.
 
----
-
 #### ⚡ Solution:
 The solution was to create a console-based Airline Ticketing System that supports all basic CRUD (Create, Read, Update, Delete) functionalities. The system allows users to create, view, update, and delete airline tickets, as well as manage passenger information.
-
----
 
 #### 🚀 Result:
 The resulting Airline Ticketing Management System is a functional C++ program that demonstrates a basic understanding of software development principles and C++ programming. The system successfully implements CRUD functionalities, allowing users to manage airline tickets and passenger information. This project showcases the ability to design, develop, and test a basic software application using C++.
@@ -59,4 +49,9 @@ We would like to acknowledge the following contributor for their valuable contri
   </a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
 </p>
 
-<br /><br /><br />
+
+---
+
+### 📄 License
+
+This project is licensed under the [MIT License](https://chat.openai.com/LICENSE), allowing you to use, modify, and distribute the code freely.
